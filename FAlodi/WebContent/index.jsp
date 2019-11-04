@@ -4,7 +4,7 @@
 <html>
 
 <head>
-  <title>Falodi Matching Textiles..</title>
+  <title>XYZ Textiles..</title>
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- css -->
@@ -29,7 +29,7 @@
         </button>
 
         <!-- Logo text or image -->
-        <a class="navbar-brand" href="index.html">Falodi Matching Textiles..</a>
+        <a class="navbar-brand" href="index.html">XYZ Textiles..</a>
 
       </div>
       <div class="navigation collapse navbar-collapse navbar-ex1-collapse">
@@ -580,7 +580,7 @@ $(document).ready(function(){
             <i class="fa fa-map-marker fa-4x"></i>
             <h5>Main Office</h5>
             <p>
-              381-382 Amrakunj Colony,<br />Indore (M.P)
+              358-359 BR Colony,<br />Indore (M.P)
             </p>
           </div>
         </div>
@@ -589,7 +589,7 @@ $(document).ready(function(){
             <i class="fa fa-phone fa-4x"></i>
             <h5>Call</h5>
             <p>
-              +91 94254 80837<br> +91 98269 60898
+              +91 9985687654<br> +91 9845676532
 
             </p>
           </div>
@@ -599,7 +599,7 @@ $(document).ready(function(){
             <i class="fa fa-envelope fa-4x"></i>
             <h5>Email us</h5>
             <p>
-              manoj62a0@gmail.com<br />ayush6240@gmail.com
+              Falodi@gmail.com<br />maje@gmail.com
             </p>
           </div>
         </div>
@@ -643,7 +643,7 @@ $(document).ready(function(){
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <p>Copyright &copy; falodi matching textiles. All rights reserved.</p>
+          <p>Copyright &copy; XYZ textiles. All rights reserved.</p>
           <div class="credits">
            
             Designed by <a href="https://fmt.com/">Ayush Gupta</a>
