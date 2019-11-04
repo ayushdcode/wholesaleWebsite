@@ -385,14 +385,14 @@ $("#invoice1").fadeTo(200,0.1,function() //start fading the messagebox
       <div id="print">
         <section id="memo">
           <div class="company-info">
-            <div>FALODI MATCHING TEXTILES</div>
-            <span>381-382 Amrakunj colony</span>
+            <div>XYZ TEXTILES</div>
+            <span>358-359 BR colony</span>
             <span>airport road, indore</span>
             <br>
-            <span>+91 9425480837</span>
+            <span>+91 9907543621</span>
             <br>
-            <span>manoj62a0@gmail.com</span><br>
-            <span id="invoice">GSTIN -</span><span>23ANGPG0039G1ZL</span>
+            <span>falodi@gmail.com</span><br>
+            <span id="invoice">GSTIN -</span><span>23SDFIG9967GG1ZL</span>
             <br><br>
          
             <span id="invoice">INVOICE NO.-</span> <span>{net_term}</span><br>
